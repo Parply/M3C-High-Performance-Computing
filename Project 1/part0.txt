@@ -1,0 +1,3 @@
+sudo vi part0.txt
+git ls-remote $URL HEAD
+

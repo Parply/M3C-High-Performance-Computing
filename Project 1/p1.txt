@@ -1,0 +1,55 @@
+git log > p1.txt
+git log --format="%H" -n 1 > commit.txt 
+commit cb13f05bf7aadd2fa97fa36e0b8ff8a1df4d4150
+Author: Alex <alexander.pinches16@imperial.ac.uk>
+Date:   Fri Nov 1 12:21:40 2019 +0000
+
+    final changes
+
+commit f2e6583d55f816f83a31e6c1a4944353bdb7c6da
+Author: Alex <alexander.pinches16@imperial.ac.uk>
+Date:   Thu Oct 31 20:09:36 2019 +0000
+
+    new plot
+
+commit b7e2b9a96d8830b0765c9021d0b9a5c90b35c876
+Author: Alexander John Pinches <42705013+TheRealGiraffey@users.noreply.github.com>
+Date:   Wed Oct 30 23:36:39 2019 +0000
+
+    labels and reducing figure count
+
+commit d885a2f2354cc71c6077053461461c467aa8e793
+Author: Alex <alexander.pinches16@imperial.ac.uk>
+Date:   Tue Oct 29 23:39:00 2019 +0000
+
+    analyse
+
+commit a384496da1be4a9c5c8e540fd7ae6edff19a6d84
+Author: Alex <alexander.pinches16@imperial.ac.uk>
+Date:   Wed Oct 23 00:40:05 2019 +0100
+
+    vectorised more
+
+commit 3354ddc4a9973af564a78958d776cb8df69ac723
+Author: Alex <alexander.pinches16@imperial.ac.uk>
+Date:   Tue Oct 22 22:12:25 2019 +0100
+
+    part 1
+
+commit b17d6a40a5199a44d20ac092fde0261325da6fd0
+Author: Alex <alexander.pinches16@imperial.ac.uk>
+Date:   Tue Oct 22 15:34:11 2019 +0100
+
+    ignore
+
+commit 49a515f8c8711602fcf5b7991f05c2d175d83653
+Author: Alex <alexander.pinches16@imperial.ac.uk>
+Date:   Tue Oct 22 15:21:33 2019 +0100
+
+    Initial Commit
+
+commit 0f77ce11ddcbd4eab809deb160c639a63ef08da4
+Author: Alex <alexander.pinches16@imperial.ac.uk>
+Date:   Tue Oct 22 15:17:05 2019 +0100
+
+    Initial Commit
